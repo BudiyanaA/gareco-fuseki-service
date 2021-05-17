@@ -21,7 +21,7 @@ data:2 rdf:type data:review;
 
 data:3 rdf:type data:review;
     data:title "Grand Theft Auto: San Andreas";
-    data:description "Berlatar akhir tahun 1992, San Andreas berpusat pada seorang anggota gang jalanan bernama Carl "CJ" Johnson yang kembali pulang dari Liberty City ke Los Santos setelah mengetahui kematian Ibunya.";
+    data:description "Berlatar akhir tahun 1992, San Andreas berpusat pada seorang anggota gang jalanan bernama Carl Johnson yang kembali pulang dari Liberty City ke Los Santos setelah mengetahui kematian Ibunya";
     data:cover "https://upload.wikimedia.org/wikipedia/id/c/c4/GTASABOX.jpg";
     data:ign "https://sea.ign.com/grand-theft-auto-san-andreas/83035/review/gta-san-andreas-hd-review";
     data:gamespot "https://www.gamespot.com/games/grand-theft-auto-san-andreas/";
