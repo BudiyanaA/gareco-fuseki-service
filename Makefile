@@ -10,5 +10,6 @@ restartDev:
 	@dokcer-compose down
 	@docker-compose up
 pushHeroku:
-	@heroku container:push web
-	@heroku container:release web
+	@heroku container:login
+	@heroku container:push web --app gareco-fuseki-service
+	@heroku container:release web --app gareco-fuseki-service
