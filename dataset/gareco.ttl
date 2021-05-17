@@ -1,0 +1,56 @@
+@prefix data: <http://example.com/> . 
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+data:1 rdf:type data:review;
+    data:title "Assassin's Creed IV: Black Flag";
+    data:description "Edward Kenway yang pada awalnya bekerja untuk pemerintahan Inggris (Privateer) membelot menjadi bajak laut yang secara tidak sengaja berpapasan dengan seorang Assassin yang sedang melakukan perjalanan.";
+    data:cover "https://upload.wikimedia.org/wikipedia/en/2/28/Assassin%27s_Creed_IV_-_Black_Flag_cover.jpg";
+    data:ign "https://sea.ign.com/assassins-creed-black-flag/66365/review/assassins-creed-4-black-flag-freedom-cry-review";
+    data:gamespot "https://www.gamespot.com/games/assassins-creed-iv-black-flag/";
+    data:metacritic "https://www.metacritic.com/game/playstation-4/assassins-creed-iv-black-flag";
+    .
+
+data:2 rdf:type data:review;
+    data:title "Call of Duty: Black Ops II";
+    data:description "David Mason (codename: Section) yang beraksi jauh di masa depan – tepatnya di tahun 2025, dan sang karakter utama dari seri pertama, yang juga merupakan sang ayah – Alex Mason yang beraksi di pertengahan tahun 1980-an. Kedua karakter ini akan membawa Anda dalam satu plot utama yang sama, lewat alur bercerita yang maju dan mundur antara keduanya";
+    data:cover "https://upload.wikimedia.org/wikipedia/en/0/05/Call_of_Duty_Black_Ops_II_box_artwork.png";
+    data:ign "https://sea.ign.com/review/59443/ulasan-call-of-duty-black-ops-2";
+    data:gamespot "https://www.gamespot.com/games/call-of-duty-black-ops-ii/";
+    data:metacritic "https://www.metacritic.com/game/xbox-360/call-of-duty-black-ops-ii";
+    .
+
+data:3 rdf:type data:review;
+    data:title "Grand Theft Auto: San Andreas";
+    data:description "Berlatar akhir tahun 1992, San Andreas berpusat pada seorang anggota gang jalanan bernama Carl "CJ" Johnson yang kembali pulang dari Liberty City ke Los Santos setelah mengetahui kematian Ibunya.";
+    data:cover "https://upload.wikimedia.org/wikipedia/id/c/c4/GTASABOX.jpg";
+    data:ign "https://sea.ign.com/grand-theft-auto-san-andreas/83035/review/gta-san-andreas-hd-review";
+    data:gamespot "https://www.gamespot.com/games/grand-theft-auto-san-andreas/";
+    data:metacritic "https://www.metacritic.com/game/playstation-2/grand-theft-auto-san-andreas";
+    .
+
+data:4 rdf:type data:review;
+    data:title "Need for Speed: Most Wanted";
+    data:description "Cerita dimulai ketika kamu sebagai pemain baru dalam balapan liar di Kota Rockport. Untuk menarik perhatian pembalap lainnya, kamu berkeliling kota menggunakan mobilmu yaitu BMW M3 GTR yang sudah di full modifikasi. kamu bertemu dengan wanita muda yang diduga adalah salah satu dari anggota Blacklist.";
+    data:cover "https://upload.wikimedia.org/wikipedia/en/8/8e/Need_for_Speed_Most_Wanted_Box_Art.jpg";
+    data:ign "https://sea.ign.com/review/59313/ulasan-need-for-speed-most-wanted";
+    data:gamespot "https://www.gamespot.com/games/need-for-speed-most-wanted-2005/";
+    data:metacritic "https://www.metacritic.com/game/playstation-2/need-for-speed-most-wanted";
+    .
+
+data:5 rdf:type data:review;
+    data:title "Tom Clancy's Splinter Cell: Blacklist";
+    data:description "Splinter Cell: Blacklist ini diawali dengan kejadian dimana markas Amerika diserang oleh sekelompok teroris yang mengaku bernama The Engineers, teroris ini berniat untuk menghancurkan semua aset milik Amerika yang bernama Blacklist";
+    data:cover "https://upload.wikimedia.org/wikipedia/en/4/47/Tom_Clancy%27s_Splinter_Cell_Blacklist_box_art.png";
+    data:ign "https://sea.ign.com/splinter-cell-blacklist/64174/review/splinter-cell-blacklist-review";
+    data:gamespot "https://www.gamespot.com/games/tom-clancys-splinter-cell-blacklist/";
+    data:metacritic "https://www.metacritic.com/game/pc/tom-clancys-splinter-cell-blacklist";
+    .
+
+data:6 rdf:type data:review;
+    data:title "Far Cry 3";
+    data:description "Liburan yang berakhir bencana dan nasib buruk, ini tampaknya menjadi kesimpulan yang paling tepat untuk menggambarkan kehidupan Jason Brody, sang karakter utama di Far Cry 3. Niat untuk menikmati indahnya iklim dan setting tropis yang ditawarkan oleh Rook Island, Papua Nugini ternyata berubah menjadi petualangan untuk sekedar bertahan hidup.";
+    data:cover "https://upload.wikimedia.org/wikipedia/en/c/c6/Far_Cry_3_PAL_box_art.jpg";
+    data:ign "https://sea.ign.com/review/59532/far-cry-3-video-review";
+    data:gamespot "https://www.gamespot.com/games/far-cry-3/";
+    data:metacritic "https://www.metacritic.com/game/pc/far-cry-3";
+    .
