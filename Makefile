@@ -5,9 +5,9 @@ runBuild:
 runBackground:
 	@docker-compose up -d
 stop:
-	@dokcer-compose down
+	@docker-compose down
 restartDev:
-	@dokcer-compose down
+	@docker-compose down
 	@docker-compose up
 pushHeroku:
 	@heroku container:login
