@@ -2,90 +2,111 @@
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 
 data:1 rdf:type data:review;
-    data:title "Assassin's Creed IV: Black Flag";
-    data:description "Edward Kenway yang pada awalnya bekerja untuk pemerintahan Inggris (Privateer) membelot menjadi bajak laut yang secara tidak sengaja berpapasan dengan seorang Assassin yang sedang melakukan perjalanan.";
-    data:cover "https://upload.wikimedia.org/wikipedia/en/2/28/Assassin%27s_Creed_IV_-_Black_Flag_cover.jpg";
-    data:ign "https://sea.ign.com/assassins-creed-black-flag/66365/review/assassins-creed-4-black-flag-freedom-cry-review";
-    data:gamespot "https://www.gamespot.com/games/assassins-creed-iv-black-flag/";
-    data:metacritic "https://www.metacritic.com/game/playstation-4/assassins-creed-iv-black-flag";
-    .
+data:title "Assassin's Creed IV: Black Flag";
+data:description "Edward Kenway yang pada awalnya bekerja untuk pemerintahan Inggris (Privateer) membelot menjadi bajak laut yang secara tidak sengaja berpapasan dengan seorang Assassin yang sedang melakukan perjalanan.";
+data:cover "https://upload.wikimedia.org/wikipedia/en/2/28/Assassin%27s_Creed_IV_-_Black_Flag_cover.jpg";
+data:ign "https://sea.ign.com/assassins-creed-black-flag/66365/review/assassins-creed-4-black-flag-freedom-cry-review";
+data:gamespot "https://www.gamespot.com/games/assassins-creed-iv-black-flag/";
+data:metacritic "https://www.metacritic.com/game/playstation-4/assassins-creed-iv-black-flag";
+.
 
 data:2 rdf:type data:review;
-    data:title "Call of Duty: Black Ops II";
-    data:description "David Mason (codename: Section) yang beraksi jauh di masa depan – tepatnya di tahun 2025, dan sang karakter utama dari seri pertama, yang juga merupakan sang ayah – Alex Mason yang beraksi di pertengahan tahun 1980-an. Kedua karakter ini akan membawa Anda dalam satu plot utama yang sama, lewat alur bercerita yang maju dan mundur antara keduanya";
-    data:cover "https://upload.wikimedia.org/wikipedia/en/0/05/Call_of_Duty_Black_Ops_II_box_artwork.png";
-    data:ign "https://sea.ign.com/review/59443/ulasan-call-of-duty-black-ops-2";
-    data:gamespot "https://www.gamespot.com/games/call-of-duty-black-ops-ii/";
-    data:metacritic "https://www.metacritic.com/game/xbox-360/call-of-duty-black-ops-ii";
-    .
+data:title "Call of Duty: Black Ops II";
+data:description "David Mason (codename: Section) yang beraksi jauh di masa depan – tepatnya di tahun 2025, dan sang karakter utama dari seri pertama, yang juga merupakan sang ayah – Alex Mason yang beraksi di pertengahan tahun 1980-an. Kedua karakter ini akan membawa Anda dalam satu plot utama yang sama, lewat alur bercerita yang maju dan mundur antara keduanya";
+data:cover "https://upload.wikimedia.org/wikipedia/en/0/05/Call_of_Duty_Black_Ops_II_box_artwork.png";
+data:ign "https://sea.ign.com/review/59443/ulasan-call-of-duty-black-ops-2";
+data:gamespot "https://www.gamespot.com/games/call-of-duty-black-ops-ii/";
+data:metacritic "https://www.metacritic.com/game/xbox-360/call-of-duty-black-ops-ii";
+.
 
 data:3 rdf:type data:review;
-    data:title "Grand Theft Auto: San Andreas";
-    data:description "Berlatar akhir tahun 1992, San Andreas berpusat pada seorang anggota gang jalanan bernama Carl Johnson yang kembali pulang dari Liberty City ke Los Santos setelah mengetahui kematian Ibunya.";
-    data:cover "https://upload.wikimedia.org/wikipedia/id/c/c4/GTASABOX.jpg";
-    data:ign "https://sea.ign.com/grand-theft-auto-san-andreas/83035/review/gta-san-andreas-hd-review";
-    data:gamespot "https://www.gamespot.com/games/grand-theft-auto-san-andreas/";
-    data:metacritic "https://www.metacritic.com/game/playstation-2/grand-theft-auto-san-andreas";
-    .
+data:title "Grand Theft Auto: San Andreas";
+data:description "Berlatar akhir tahun 1992, San Andreas berpusat pada seorang anggota gang jalanan bernama Carl Johnson yang kembali pulang dari Liberty City ke Los Santos setelah mengetahui kematian Ibunya.";
+data:cover "https://upload.wikimedia.org/wikipedia/id/c/c4/GTASABOX.jpg";
+data:ign "https://sea.ign.com/grand-theft-auto-san-andreas/83035/review/gta-san-andreas-hd-review";
+data:gamespot "https://www.gamespot.com/games/grand-theft-auto-san-andreas/";
+data:metacritic "https://www.metacritic.com/game/playstation-2/grand-theft-auto-san-andreas";
+.
 
 data:4 rdf:type data:review;
-    data:title "Need for Speed: Most Wanted";
-    data:description "Cerita dimulai ketika kamu sebagai pemain baru dalam balapan liar di Kota Rockport. Untuk menarik perhatian pembalap lainnya, kamu berkeliling kota menggunakan mobilmu yaitu BMW M3 GTR yang sudah di full modifikasi. kamu bertemu dengan wanita muda yang diduga adalah salah satu dari anggota Blacklist.";
-    data:cover "https://upload.wikimedia.org/wikipedia/en/8/8e/Need_for_Speed_Most_Wanted_Box_Art.jpg";
-    data:ign "https://sea.ign.com/review/59313/ulasan-need-for-speed-most-wanted";
-    data:gamespot "https://www.gamespot.com/games/need-for-speed-most-wanted-2005/";
-    data:metacritic "https://www.metacritic.com/game/playstation-2/need-for-speed-most-wanted";
-    .
+data:title "Need for Speed: Most Wanted";
+data:description "Cerita dimulai ketika kamu sebagai pemain baru dalam balapan liar di Kota Rockport. Untuk menarik perhatian pembalap lainnya, kamu berkeliling kota menggunakan mobilmu yaitu BMW M3 GTR yang sudah di full modifikasi. kamu bertemu dengan wanita muda yang diduga adalah salah satu dari anggota Blacklist.";
+data:cover "https://upload.wikimedia.org/wikipedia/en/8/8e/Need_for_Speed_Most_Wanted_Box_Art.jpg";
+data:ign "https://sea.ign.com/review/59313/ulasan-need-for-speed-most-wanted";
+data:gamespot "https://www.gamespot.com/games/need-for-speed-most-wanted-2005/";
+data:metacritic "https://www.metacritic.com/game/playstation-2/need-for-speed-most-wanted";
+.
 
 data:5 rdf:type data:review;
-    data:title "Tom Clancy's Splinter Cell: Blacklist";
-    data:description "Splinter Cell: Blacklist ini diawali dengan kejadian dimana markas Amerika diserang oleh sekelompok teroris yang mengaku bernama The Engineers, teroris ini berniat untuk menghancurkan semua aset milik Amerika yang bernama Blacklist";
-    data:cover "https://upload.wikimedia.org/wikipedia/en/4/47/Tom_Clancy%27s_Splinter_Cell_Blacklist_box_art.png";
-    data:ign "https://sea.ign.com/splinter-cell-blacklist/64174/review/splinter-cell-blacklist-review";
-    data:gamespot "https://www.gamespot.com/games/tom-clancys-splinter-cell-blacklist/";
-    data:metacritic "https://www.metacritic.com/game/pc/tom-clancys-splinter-cell-blacklist";
-    .
+data:title "Tom Clancy's Splinter Cell: Blacklist";
+data:description "Splinter Cell: Blacklist ini diawali dengan kejadian dimana markas Amerika diserang oleh sekelompok teroris yang mengaku bernama The Engineers, teroris ini berniat untuk menghancurkan semua aset milik Amerika yang bernama Blacklist";
+data:cover "https://upload.wikimedia.org/wikipedia/en/4/47/Tom_Clancy%27s_Splinter_Cell_Blacklist_box_art.png";
+data:ign "https://sea.ign.com/splinter-cell-blacklist/64174/review/splinter-cell-blacklist-review";
+data:gamespot "https://www.gamespot.com/games/tom-clancys-splinter-cell-blacklist/";
+data:metacritic "https://www.metacritic.com/game/pc/tom-clancys-splinter-cell-blacklist";
+.
 
 data:6 rdf:type data:review;
-    data:title "Far Cry 3";
-    data:description "Liburan yang berakhir bencana dan nasib buruk, ini tampaknya menjadi kesimpulan yang paling tepat untuk menggambarkan kehidupan Jason Brody, sang karakter utama di Far Cry 3. Niat untuk menikmati indahnya iklim dan setting tropis yang ditawarkan oleh Rook Island, Papua Nugini ternyata berubah menjadi petualangan untuk sekedar bertahan hidup.";
-    data:cover "https://upload.wikimedia.org/wikipedia/en/c/c6/Far_Cry_3_PAL_box_art.jpg";
-    data:ign "https://sea.ign.com/review/59532/far-cry-3-video-review";
-    data:gamespot "https://www.gamespot.com/games/far-cry-3/";
-    data:metacritic "https://www.metacritic.com/game/pc/far-cry-3";
-    .
+data:title "Far Cry 3";
+data:description "Liburan yang berakhir bencana dan nasib buruk, ini tampaknya menjadi kesimpulan yang paling tepat untuk menggambarkan kehidupan Jason Brody, sang karakter utama di Far Cry 3. Niat untuk menikmati indahnya iklim dan setting tropis yang ditawarkan oleh Rook Island, Papua Nugini ternyata berubah menjadi petualangan untuk sekedar bertahan hidup.";
+data:cover "https://upload.wikimedia.org/wikipedia/en/c/c6/Far_Cry_3_PAL_box_art.jpg";
+data:ign "https://sea.ign.com/review/59532/far-cry-3-video-review";
+data:gamespot "https://www.gamespot.com/games/far-cry-3/";
+data:metacritic "https://www.metacritic.com/game/pc/far-cry-3";
+.
 
 data:7 rdf:type data:review;
-    data:title "Portal 2";
-    data:description "Portal 2 adalah permainan video puzzle-platform 2011 yang dikembangkan oleh Valve untuk Windows, Mac OS X, Linux, PlayStation 3, dan Xbox 360. Versi PC digital didistribusikan secara online oleh layanan Steam Valve, sementara semua edisi retail didistribusikan oleh Electronic Arts .";
-    data:cover "https://upload.wikimedia.org/wikipedia/en/f/f9/Portal2cover.jpg";
-    data:ign "https://www.ign.com/articles/2011/04/19/portal-2-review";
-    data:gamespot "https://www.gamespot.com/reviews/portal-2-review/1900-6309270/";
-    data:metacritic "https://www.metacritic.com/game/pc/portal-2";
-    .
+data:title "Portal 2";
+data:description "Portal 2 adalah permainan video puzzle-platform 2011 yang dikembangkan oleh Valve untuk Windows, Mac OS X, Linux, PlayStation 3, dan Xbox 360. Versi PC digital didistribusikan secara online oleh layanan Steam Valve, sementara semua edisi retail didistribusikan oleh Electronic Arts .";
+data:cover "https://upload.wikimedia.org/wikipedia/en/f/f9/Portal2cover.jpg";
+data:ign "https://www.ign.com/articles/2011/04/19/portal-2-review";
+data:gamespot "https://www.gamespot.com/reviews/portal-2-review/1900-6309270/";
+data:metacritic "https://www.metacritic.com/game/pc/portal-2";
+.
 
 data:8 rdf:type data:review;
-    data:title "Terraria";
-    data:description "Terraria adalah game sandbox aksi-petualangan yang dikembangkan oleh Re-Logic. Game ini pertama kali dirilis untuk Microsoft Windows pada 16 Mei 2011 dan sejak itu telah di-porting ke beberapa platform lain. Game ini menampilkan eksplorasi, kerajinan, membangun, melukis, dan bertarung dengan berbagai makhluk dalam dunia 2D yang dibuat secara prosedural. Terraria menerima ulasan yang umumnya positif, dengan pujian yang diberikan pada elemen kotak pasirnya. Game ini telah terjual lebih dari 35 juta kopi pada akhir tahun 2020 .";
-    data:cover "https://buy-keys.com/wp-content/uploads/2021/01/terraria_cover_original-1.png";
-    data:ign "https://www.ign.com/articles/2011/05/25/terraria-review";
-    data:gamespot "https://www.gamespot.com/reviews/terraria-review/1900-6415621/";
-    data:metacritic "https://www.metacritic.com/game/pc/terraria";
-    .
+data:title "Terraria";
+data:description "Terraria adalah game sandbox aksi-petualangan yang dikembangkan oleh Re-Logic. Game ini pertama kali dirilis untuk Microsoft Windows pada 16 Mei 2011 dan sejak itu telah di-porting ke beberapa platform lain. Game ini menampilkan eksplorasi, kerajinan, membangun, melukis, dan bertarung dengan berbagai makhluk dalam dunia 2D yang dibuat secara prosedural. Terraria menerima ulasan yang umumnya positif, dengan pujian yang diberikan pada elemen kotak pasirnya. Game ini telah terjual lebih dari 35 juta kopi pada akhir tahun 2020 .";
+data:cover "https://buy-keys.com/wp-content/uploads/2021/01/terraria_cover_original-1.png";
+data:ign "https://www.ign.com/articles/2011/05/25/terraria-review";
+data:gamespot "https://www.gamespot.com/reviews/terraria-review/1900-6415621/";
+data:metacritic "https://www.metacritic.com/game/pc/terraria";
+.
 
 data:9 rdf:type data:review;
-    data:title "Grand Theft Auto V";
-    data:description "Grand Theft Auto V adalah game aksi-petualangan 2013 yang dikembangkan oleh Rockstar North dan diterbitkan oleh Rockstar Games. Ini adalah entri utama pertama dalam seri Grand Theft Auto sejak Grand Theft Auto IV 2008. Berlatar di negara bagian fiksi San Andreas, berdasarkan California Selatan, cerita pemain tunggal mengikuti tiga protagonis — pensiunan perampok bank Michael De Santa, gangster jalanan Franklin Clinton, dan pengedar narkoba dan penyelundup senjata Trevor Philips — dan upaya mereka untuk melakukan perampokan saat berada di bawah tekanan dari badan pemerintah yang korup dan penjahat yang berkuasa. Desain dunia terbuka memungkinkan pemain dengan bebas menjelajahi pedesaan terbuka San Andreas dan kota fiksi Los Santos, yang berbasis di Los Angeles.";
-    data:cover "https://upload.wikimedia.org/wikipedia/en/a/a5/Grand_Theft_Auto_V.png";
-    data:ign "https://www.ign.com/articles/2013/09/16/grand-theft-auto-v-review";
-    data:gamespot "https://www.gamespot.com/reviews/grand-theft-auto-v-review/1900-6414475/";
-    data:metacritic "https://www.metacritic.com/game/pc/grand-theft-auto-v";
-    .
+data:title "Grand Theft Auto V";
+data:description "Grand Theft Auto V adalah game aksi-petualangan 2013 yang dikembangkan oleh Rockstar North dan diterbitkan oleh Rockstar Games. Ini adalah entri utama pertama dalam seri Grand Theft Auto sejak Grand Theft Auto IV 2008. Berlatar di negara bagian fiksi San Andreas, berdasarkan California Selatan, cerita pemain tunggal mengikuti tiga protagonis — pensiunan perampok bank Michael De Santa, gangster jalanan Franklin Clinton, dan pengedar narkoba dan penyelundup senjata Trevor Philips — dan upaya mereka untuk melakukan perampokan saat berada di bawah tekanan dari badan pemerintah yang korup dan penjahat yang berkuasa. Desain dunia terbuka memungkinkan pemain dengan bebas menjelajahi pedesaan terbuka San Andreas dan kota fiksi Los Santos, yang berbasis di Los Angeles.";
+data:cover "https://upload.wikimedia.org/wikipedia/en/a/a5/Grand_Theft_Auto_V.png";
+data:ign "https://www.ign.com/articles/2013/09/16/grand-theft-auto-v-review";
+data:gamespot "https://www.gamespot.com/reviews/grand-theft-auto-v-review/1900-6414475/";
+data:metacritic "https://www.metacritic.com/game/pc/grand-theft-auto-v";
+.
 
 data:10 rdf:type data:review;
-    data:title "Subnautica";
-    data:description "Subnautica adalah video game aksi-petualangan bertahan hidup dunia terbuka yang dikembangkan dan diterbitkan oleh Unknown Worlds Entertainment. Di dalamnya, pemain bebas menjelajahi lautan di planet asing, yang dikenal sebagai planet 4546B, setelah pesawat luar angkasa mereka, Aurora, menabrak permukaan planet. Pemain harus mengumpulkan sumber daya dan menghadapi makhluk untuk bertahan hidup. Subnautica dirilis pada akses awal untuk Microsoft Windows pada Desember 2014, Mac OS X pada Juni 2015, dan untuk Xbox One pada Mei 2016. Subnautica dirilis dari akses awal pada Januari 2018 untuk Microsoft Windows dan mac OS, dengan versi untuk Xbox One dan PlayStation 4 pada Desember 2018. Versi konsol fisik diterbitkan oleh Gearbox Publishing. Nintendo Switch, PlayStation 5, dan Xbox Series X. ";
-    data:cover "https://upload.wikimedia.org/wikipedia/en/6/6d/Subnautica_cover_art.png?1621216442215";
-    data:ign "https://www.ign.com/articles/2018/01/26/subnautica-review";
-    data:gamespot "https://www.gamespot.com/reviews/subnautica-review-a-water-wonderland/1900-6416847/";
-    data:metacritic "https://www.metacritic.com/game/pc/subnautica";
+data:title "Subnautica";
+data:description "Subnautica adalah video game aksi-petualangan bertahan hidup dunia terbuka yang dikembangkan dan diterbitkan oleh Unknown Worlds Entertainment. Di dalamnya, pemain bebas menjelajahi lautan di planet asing, yang dikenal sebagai planet 4546B, setelah pesawat luar angkasa mereka, Aurora, menabrak permukaan planet. Pemain harus mengumpulkan sumber daya dan menghadapi makhluk untuk bertahan hidup. Subnautica dirilis pada akses awal untuk Microsoft Windows pada Desember 2014, Mac OS X pada Juni 2015, dan untuk Xbox One pada Mei 2016. Subnautica dirilis dari akses awal pada Januari 2018 untuk Microsoft Windows dan mac OS, dengan versi untuk Xbox One dan PlayStation 4 pada Desember 2018. Versi konsol fisik diterbitkan oleh Gearbox Publishing. Nintendo Switch, PlayStation 5, dan Xbox Series X. ";
+data:cover "https://upload.wikimedia.org/wikipedia/en/6/6d/Subnautica_cover_art.png?1621216442215";
+data:ign "https://www.ign.com/articles/2018/01/26/subnautica-review";
+data:gamespot "https://www.gamespot.com/reviews/subnautica-review-a-water-wonderland/1900-6416847/";
+data:metacritic "https://www.metacritic.com/game/pc/subnautica";
+.
+
+data:cat1 rdf:type data:category;
+data:categoryName "Action" .
+data:cat2 rdf:type data:category;
+data:categoryName "Adventure" .
+data:cat3 rdf:type data:category;
+data:categoryName "Racing" .
+
+data:1 data:isCategorized data:cat1 .
+data:1 data:isCategorized data:cat2 .
+data:2 data:isCategorized data:cat1 .
+data:3 data:isCategorized data:cat1 .
+data:4 data:isCategorized data:cat1 .
+data:4 data:isCategorized data:cat2 .
+data:4 data:isCategorized data:cat3 .
+data:5 data:isCategorized data:cat1 .
+data:5 data:isCategorized data:cat2 .
+data:6 data:isCategorized data:cat1 .
+data:6 data:isCategorized data:cat2 .
+
